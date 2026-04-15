@@ -1,2 +1,2 @@
-# Deepo learning examples
-This repo contains examples and simple toy projects from what i'm learning.
+# Deep learning examples
+Este repositorio contêm projetos simples das coisas que aprendi e estou aprendendo.
